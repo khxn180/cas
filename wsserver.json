@@ -1,0 +1,13 @@
+{
+
+"port":5589,
+
+"host":"masvet.online",
+"prefix":"http://",
+
+"host_ws":"masvet.online",
+"prefix_ws":"ws://",
+
+"ssl":false
+
+}
